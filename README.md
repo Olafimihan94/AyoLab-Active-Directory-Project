@@ -3,7 +3,7 @@ A self-initiated enterprise IT environment built from scratch to simulate real-w
 
 Here’s a video presentation of my **AYOLAB Project**. It’s quite lengthy, but it provides a detailed overview of the project, its development, and key features.
 
-**Watch the presentation here:** [AYOLAB Project Video Presentation](https://onedrive.live.com/?photosData=%2Fshare%2F9B4FB08A5FBD5DBB!s8c39cbc299704ab092649024b6699db7?ithint=video%26e=Ex2jVb%26migratedtospo=true\&cid=9B4FB08A5FBD5DBB\&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy85YjRmYjA4YTVmYmQ1ZGJiL0VjTExPWXh3bWJCS2ttU1FKTFpwbmJjQkd2SVMxRnVqcG5pV0ZkYTBia241UXc_ZT1FeDJqVmI\&view=8\&utm_source=chatgpt.com)
+**Watch the presentation here:** [AYOLAB Project Video Presentation][(https://onedrive.live.com/?photosData=%2Fshare%2F9B4FB08A5FBD5DBB!s8c39cbc299704ab092649024b6699db7?ithint=video%26e=Ex2jVb%26migratedtospo=true\&cid=9B4FB08A5FBD5DBB\&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy85YjRmYjA4YTVmYmQ1ZGJiL0VjTExPWXh3bWJCS2ttU1FKTFpwbmJjQkd2SVMxRnVqcG5pV0ZkYTBia241UXc_ZT1FeDJqVmI\&view=8\&utm_source=chatgpt.com)](https://onedrive.live.com/?photosData=%2Fshare%2F9B4FB08A5FBD5DBB%21s8c39cbc299704ab092649024b6699db7%3Fithint%3Dvideo%26e%3DEx2jVb%26migratedtospo%3Dtrue&cid=9B4FB08A5FBD5DBB&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy85YjRmYjA4YTVmYmQ1ZGJiL0VjTExPWXh3bWJCS2ttU1FKTFpwbmJjQkd2SVMxRnVqcG5pV0ZkYTBia241UXc%5FZT1FeDJqVmI&view=8)
 
 # 🧬 AyoLab Active Directory & Infrastructure Project
 
